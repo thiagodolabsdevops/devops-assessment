@@ -1,14 +1,13 @@
-package br.com.letscodebyada;
+package br.com.electroneekrobotics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
-public class LetscodebyadaApplication {
+public class ElectroneekroboticsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LetscodebyadaApplication.class, args);
+		SpringApplication.run(ElectroneekroboticsApplication.class, args);
 	}
 
 }

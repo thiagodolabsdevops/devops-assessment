@@ -1,4 +1,4 @@
-package br.com.letscodebyada.Config;
+package br.com.electroneekrobotics.Config;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;

@@ -1,8 +1,8 @@
-package br.com.letscodebyada.Controller;
+package br.com.electroneekrobotics.Controller;
 
-import br.com.letscodebyada.Exception.UsuarioCadastradoException;
-import br.com.letscodebyada.Model.UsuarioModel;
-import br.com.letscodebyada.Service.UsuarioService;
+import br.com.electroneekrobotics.Exception.UsuarioCadastradoException;
+import br.com.electroneekrobotics.Model.UsuarioModel;
+import br.com.electroneekrobotics.Service.UsuarioService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

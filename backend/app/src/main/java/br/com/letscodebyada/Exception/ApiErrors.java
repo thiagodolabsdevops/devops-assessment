@@ -1,4 +1,4 @@
-package br.com.letscodebyada.Exception;
+package br.com.electroneekrobotics.Exception;
 
 import lombok.Getter;
 import java.util.Arrays;

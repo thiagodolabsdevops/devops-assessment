@@ -1,6 +1,6 @@
 spring:
   application:
-    name: letscode-by-ada
+    name: electroneek-robotics
   profiles: default, local, develop
   jpa:
     hibernate:

@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="true" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="br.com.letscodebyada.LetscodebyadaApplication" />
-    <module name="letscodebyada" />
+    <option name="MAIN_CLASS_NAME" value="br.com.electroneekrobotics.ElectroneekroboticsApplication" />
+    <module name="electroneekrobotics" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>

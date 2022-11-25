@@ -1,4 +1,4 @@
-package br.com.letscodebyada.Config;
+package br.com.electroneekrobotics.Config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

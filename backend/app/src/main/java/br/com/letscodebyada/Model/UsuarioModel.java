@@ -1,4 +1,4 @@
-package br.com.letscodebyada.Model;
+package br.com.electroneekrobotics.Model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

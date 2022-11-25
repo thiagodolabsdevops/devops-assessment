@@ -1,6 +1,6 @@
-package br.com.letscodebyada.Config;
+package br.com.electroneekrobotics.Config;
 
-import br.com.letscodebyada.Service.UsuarioService;
+import br.com.electroneekrobotics.Service.UsuarioService;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.authentication.AuthenticationManager;

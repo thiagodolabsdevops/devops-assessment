@@ -1,8 +1,8 @@
-package br.com.letscodebyada.Service;
+package br.com.electroneekrobotics.Service;
 
-import br.com.letscodebyada.Exception.UsuarioCadastradoException;
-import br.com.letscodebyada.Model.UsuarioModel;
-import br.com.letscodebyada.Repository.UsuarioRepository;
+import br.com.electroneekrobotics.Exception.UsuarioCadastradoException;
+import br.com.electroneekrobotics.Model.UsuarioModel;
+import br.com.electroneekrobotics.Repository.UsuarioRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

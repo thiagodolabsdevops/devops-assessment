@@ -1,4 +1,4 @@
-package br.com.letscodebyada.Config;
+package br.com.electroneekrobotics.Config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
