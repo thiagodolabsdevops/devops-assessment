@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    APP_NAME: "letscodebyada-app"
+    APP_NAME: "electroneekrobotics-app"
 phases:
   install:
     runtime-versions:
@@ -13,10 +13,10 @@ phases:
     commands:
       - echo build process started now
       - ls
-      - cd letscodebyada-app
+      - cd electroneekrobotics-app
       - ng build --configuration=production
   post_build:
     commands:
       - echo Arquivos Buildado
       - ls -la
-      - echo finalizado com sucesso 
+      - echo finalizado com sucesso

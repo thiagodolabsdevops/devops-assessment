@@ -2,7 +2,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "letscodebyada-app": {
+    "electroneekrobotics-app": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -16,7 +16,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/letscodebyada-app",
+            "outputPath": "dist/electroneekrobotics-app",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -72,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "letscodebyada-app:build:production"
+              "browserTarget": "electroneekrobotics-app:build:production"
             },
             "development": {
-              "browserTarget": "letscodebyada-app:build:development"
+              "browserTarget": "electroneekrobotics-app:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -83,7 +83,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "letscodebyada-app:build"
+            "browserTarget": "electroneekrobotics-app:build"
           }
         },
         "test": {
@@ -107,5 +107,5 @@
       }
     }
   },
-  "defaultProject": "letscodebyada-app"
+  "defaultProject": "electroneekrobotics-app"
 }
